@@ -2,10 +2,10 @@
 AddressBookSort
 
 导入：
-#import <AddressBook/AddressBook.h>
-#import <AddressBookUI/AddressBookUI.h>
-#import "AddressBookModel.h"
-#import "AddressBook.h"
+import <AddressBook/AddressBook.h>
+import <AddressBookUI/AddressBookUI.h>
+import "AddressBookModel.h"
+import "AddressBook.h"
 
 使用：
 1.单例获取对象
